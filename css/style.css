@@ -1,0 +1,54 @@
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+
+
+img {
+    display: block;
+    margin:  0 auto;
+    width: 250px;
+    border:2px solid black;
+
+}
+ul li {
+    display: inline-block;
+    margin: 0 auto;
+    width: 40px;
+    text-align: center;
+    border: 1px solid goldenrod;
+   
+
+
+
+
+}
+body {
+    background-color: rgb(208, 201, 238);
+}
+p {
+    color: navy;
+    text-align: center;
+    font-size: large;
+    box-shadow: black;
+}
+a {
+  
+    
+    color: orangered;
+    text-decoration: none;
+    text-align: center;
+}
+
+ul { text-align: center; }
+
+footer {
+
+    text-shadow: brown;
+    font-size: small;
+    font-style: italic;
+}
+
+div {}
+    
